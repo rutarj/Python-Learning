@@ -1,3 +1,11 @@
+# Rock, Paper, Scissors Game:
+
+# The game starts by defining ASCII art representations for each choice: Rock, Paper, and Scissors.
+# It prompts the user to input their choice: 0 for Rock, 1 for Paper, or 2 for Scissors.
+# ASCII art corresponding to the user's choice is printed.
+# The computer's choice is generated randomly between 0 and 2, and its corresponding ASCII art is printed.
+# The winner is determined based on the choices and printed to the console.
+
 rock = '''
     _______
 ---'   ____)
