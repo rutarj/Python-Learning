@@ -1,5 +1,5 @@
 
-# Summary of What You Learned While Coding This Game
+# Summary of What I Learned While Coding This Game
 # Basic Game Flow: Understanding the structure of a simple game loop, including initializing the game, taking user inputs, and processing game logic until the game ends.
 # Card Dealing Mechanism: How to simulate dealing cards from a deck, including the randomness and selection of cards.
 # Score Calculation: Implementing a scoring system that handles special rules, such as the value of an Ace being either 1 or 11, and identifying blackjack conditions.
