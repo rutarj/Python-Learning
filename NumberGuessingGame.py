@@ -1,4 +1,4 @@
-# Summary of What You Learned While Writing This Code
+# Summary of What I Learned While Writing This Code
 # Random Number Generation:
 
 # Used random.randint() to generate a random number.
